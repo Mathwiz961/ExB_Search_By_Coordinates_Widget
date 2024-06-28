@@ -1,0 +1,20 @@
+{
+  "name": "SearchByCoordinates",
+  "label": "Search by Map Coordinates",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "dependencies": ["jimu-arcgis"],
+  "author": "Dr. Angie Schrick",
+  "description": "Search by map coordinates widget",
+  "copyright": "ALS productions; 2023",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 284,
+    "height": 200
+  }
+}
